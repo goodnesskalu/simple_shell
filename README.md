@@ -1,1 +1,1 @@
-myfirst readme
+This folder contains the simple shell project
